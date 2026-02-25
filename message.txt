@@ -17,10 +17,9 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"bibleaggressive"},
+        ["Whitelist Username"] = {"nightmistake0"},
         ["Category Fish"] = {
-            "Secret","Mythic",
-            -- {Tier = "Mythic", Variant = "Gold"}, -- Tier + Variant
+            "Secret",
         },
         ["Fish Name"] = {
             "Sacred Guardian Squid",
@@ -160,4 +159,5 @@ _G.FishItConfig = _G.FishItConfig or {
     ["HideGUI"] = true,
     ["EXIT_MAP_IF_DISCONNECT"] = true,
 }
+
 
