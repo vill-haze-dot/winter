@@ -17,7 +17,7 @@ _G.FishItConfig = {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"intendunlike"},
+        ["Whitelist Username"] = {"policemanoffbeat"},
         ["Category Fish"] = {
             "Secret",
         },
@@ -159,6 +159,7 @@ _G.FishItConfig = {
     ["HideGUI"] = true,
     ["EXIT_MAP_IF_DISCONNECT"] = true,
 }
+
 
 
 
