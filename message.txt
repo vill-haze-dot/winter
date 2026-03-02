@@ -17,7 +17,7 @@ _G.FishItConfig = {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"tAlOnKoCaG","Sampixel1004","Zan3_Slim3","Ohio_Rizzler1839","Krevl1ght247","RileyBabyGronkLowKey","aireterjun42","XxMichael_BASEDXX","zentora68"},
+        ["Whitelist Username"] = {"tAlOnKoCaG","Sampixel1004","Zan3_Slim3","Ohio_Rizzler1839","Krevl1ght247","RileyBabyGronkLowKey","aireterjun42","XxMichael_BASEDXX"},
         ["Category Fish"] = {
             "Secret",
         },
@@ -159,6 +159,7 @@ _G.FishItConfig = {
     ["HideGUI"] = true,
     ["EXIT_MAP_IF_DISCONNECT"] = true,
 }
+
 
 
 
